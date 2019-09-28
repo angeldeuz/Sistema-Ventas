@@ -1,4 +1,6 @@
-# sistema
+# sistema de ventas
+Sistema de ventas echo con vue.js 
+Parte de Front End
 
 ## Project setup
 ```
